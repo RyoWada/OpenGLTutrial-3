@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OpenGLTutrial 3", "OpenGLTutrial 3.vcxproj", "{81377960-BA11-45A6-A4F7-A57A2D6DB495}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81377960-BA11-45A6-A4F7-A57A2D6DB495}.Debug|x64.ActiveCfg = Debug|x64
+		{81377960-BA11-45A6-A4F7-A57A2D6DB495}.Debug|x64.Build.0 = Debug|x64
+		{81377960-BA11-45A6-A4F7-A57A2D6DB495}.Debug|x86.ActiveCfg = Debug|Win32
+		{81377960-BA11-45A6-A4F7-A57A2D6DB495}.Debug|x86.Build.0 = Debug|Win32
+		{81377960-BA11-45A6-A4F7-A57A2D6DB495}.Release|x64.ActiveCfg = Release|x64
+		{81377960-BA11-45A6-A4F7-A57A2D6DB495}.Release|x64.Build.0 = Release|x64
+		{81377960-BA11-45A6-A4F7-A57A2D6DB495}.Release|x86.ActiveCfg = Release|Win32
+		{81377960-BA11-45A6-A4F7-A57A2D6DB495}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA99F45B-EA9B-4ADA-8F51-270747ADEEC2}
+	EndGlobalSection
+EndGlobal
